@@ -12,6 +12,7 @@ public class Test3 {
 		for(int i=3;i>=0;i--) {
 			System.out.println(a[i]);
 		}
+		
 	}
 
 }
